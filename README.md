@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hitenanand_97" target="blank"><img src="https://img.shields.io/twitter/follow/hitenanand_97?logo=twitter&style=for-the-badge" alt="hitenanand_97" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/hitenanand97?tab=repositories](https://github.com/hitenanand97?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://hitenanand97.github.io/hitenanand/](https://hitenanand97.github.io/hitenanand/)
 
 - 📫 How to reach me **hitenanand97@gmail.com**
 
